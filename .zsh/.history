@@ -1,0 +1,55 @@
+: 1708377278:0;zoxide
+: 1708377287:0;cargo install zoxide
+: 1708377344:0;cargo
+: 1708377370:0;zoxide
+: 1708377424:0;rustup completions
+: 1708377428:0;rustup completions zsh
+: 1708377440:0;ls ~/.zfunc
+: 1708377493:0;rustup completions zsh
+: 1708377497:0;rustup completions
+: 1708377510:0;$fpath
+: 1708377513:0;echo $fpath
+: 1708377524:0;echo $fpath | grep zfunc
+: 1708377608:0;rustup completions zsh > ~/dotfiles/.zsh/completions
+: 1708377623:0;rustup completions zsh > ~/dotfiles/.zsh/completions/_cargo
+: 1708377644:0;rustup completions zsh > ~/dotfiles/.zsh/completions/_rustup
+: 1708377670:0;rustup completions zsh cargo > ~/dotfiles/.zsh/completions/_cargo
+: 1708377818:0;$INSIDE_EMACS
+: 1708377822:0;echo $INSIDE_EMACS
+: 1708378384:0;vterm_cmd message hi
+: 1708378391:0;vterm_prompt_end
+: 1708378396:0;$PROMPT
+: 1708385482:0;echo $PROMPT
+: 1708385521:0;clear
+: 1708385576:0;vterm_prompt_end
+: 1708385580:0;vterm_prompt_end()\
+
+: 1708385585:0;clear
+: 1708385663:0;curl -s https://ohmyposh.dev/install.sh | bash -s
+: 1708385683:0;sudo curl -s https://ohmyposh.dev/install.sh | bash -s
+: 1708385692:0;sudo curl -s https://ohmyposh.dev/install.sh | sudo bash -s
+: 1708385717:0;cd Developer
+: 1708385721:0;zoxide add
+: 1708385729:0;zoxide add ~/Developer
+: 1708385735:0;cd Developer
+: 1708385740:0;cd ..
+: 1708385746:0;zoxide --help
+: 1708385790:0;sudo apt install fzf
+: 1708385795:0;fzf
+: 1708385854:0;whereis cd
+: 1708385861:0;zoxide
+: 1708385865:0;cd add
+: 1708385875:0;cd Developer
+: 1708385889:0;zoxide add ~/Developer/Work
+: 1708385893:0;zoxide add ~/Developer/School
+: 1708385898:0;School
+: 1708385902:0;cd ~/
+: 1708385903:0;School
+: 1708385910:0;cd School
+: 1708385914:0;cd ~
+: 1708385916:0;cd Work
+: 1708385919:0;cd ~
+: 1708385921:0;cd Wor
+: 1708385942:0;git remote
+: 1708385945:0;git remote -l
+: 1708385989:0;git remote add origin https://github.com/davisschenk/.dotfiles.git
